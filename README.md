@@ -1,1 +1,1 @@
-Vagrant lectures
+Vagrant lectures.
